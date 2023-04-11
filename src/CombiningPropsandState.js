@@ -20,7 +20,7 @@ function App() {
   return (
     <div style={{ display: "flex", justifyContent: "center", alignItems: "center", width: "100vw", height: "100vh" }}>
       <div>
-        <h2>IT 114 Master List</h2>
+        <h2>People List</h2>
         <PersonList people={people} onAddPerson={handleAddPerson} onRemovePerson={handleRemovePerson} />
       </div>
     </div>

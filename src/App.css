@@ -29,3 +29,7 @@
 .small {
   font-size: 0.75rem;
 }
+
+td {
+  text-align: center;
+}
